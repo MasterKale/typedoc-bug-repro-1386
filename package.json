@@ -1,0 +1,16 @@
+{
+  "name": "delete-me-typedoc-bug-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs": "typedoc --tsconfig tsconfig.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typedoc": "0.20.0-beta.4",
+    "typescript": "3.9.7"
+  }
+}
